@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{095B6191-79D5-4AE8-917E-B341C90E1855}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_Lab4_PowersTable/Program.cs">
+    <Files>
+      <File FileName="GC_Lab4_PowersTable/Program.cs" Line="16" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GC__Lab4__PowersTable FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
